@@ -1,4 +1,22 @@
 {
+  "name": "nodestart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irina7Arina7Sillamae/NodeStart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irina7Arina7Sillamae/NodeStart/issues"
+  },
+  "homepage": "https://github.com/Irina7Arina7Sillamae/NodeStart#readme",
   "dependencies": {
     "nodemon": "^2.0.15"
   }
